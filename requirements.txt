@@ -1,2 +1,4 @@
-numpy==1.24.3
 Flask==2.2.2
+git+https://github.com/openai/whisper.git 
+joblib
+Werkzeug==2.2.2 
